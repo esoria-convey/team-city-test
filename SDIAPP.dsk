@@ -66,7 +66,7 @@ CustomEditViewType=TEditView
 Module=X:\__Dev\__Source\team-city-test\SDIMAIN.PAS
 CursorX=1
 CursorY=1
-TopLine=2
+TopLine=3
 LeftCol=1
 Elisions=
 Bookmarks=
@@ -679,7 +679,7 @@ LRDockWidth=3805
 Dockable=1
 StayOnTop=0
 
-[Item__C74C7DBB_4D99_4FF4_BABE_F02A005254E6_]
+[Item__CE401FF6_F956_4BDB_9F54_088BD85F0CF4_]
 PercentageSizes=1
 Create=1
 Visible=0
@@ -698,7 +698,7 @@ LRDockWidth=3805
 Dockable=1
 StayOnTop=0
 
-[Item__CE401FF6_F956_4BDB_9F54_088BD85F0CF4_]
+[Item__C74C7DBB_4D99_4FF4_BABE_F02A005254E6_]
 PercentageSizes=1
 Create=1
 Visible=0
@@ -780,7 +780,7 @@ Dockable=1
 StayOnTop=0
 TabPosition=1
 ActiveTabID=RefactoringForm
-TabDockClients=RefactoringForm,FindReferencsForm,ToDo List,QAView,MetricsView,RefactoringsView,UsagesView
+TabDockClients=RefactoringForm,FindReferencsForm,ToDo List,RefactoringsView,UsagesView,QAView,MetricsView
 
 [DockSite1]
 HostDockSite=DockBottomPanel
@@ -828,5 +828,5 @@ Dockable=1
 StayOnTop=0
 TabPosition=0
 ActiveTabID=ProjectManager
-TabDockClients=PropertyInspector,ToolForm,MIDEXForm,ProjectManager,ModelViewTool,DataExplorer
+TabDockClients=PropertyInspector,ToolForm,MIDEXForm,ProjectManager,DataExplorer,ModelViewTool
 
